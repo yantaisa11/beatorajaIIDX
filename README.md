@@ -6,6 +6,7 @@ LR2orajaをベースにIIDXライクに改造したbeatorajaです
 
 [English]
 This is a beatoraja based on the LR2oraja, modified to look like an IIDX.
+
  *Judge is as strict as IIDX (not together)
 
  *Changed the starting position of the gauge from 20％ to 22％
