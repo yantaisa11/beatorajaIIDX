@@ -9,6 +9,8 @@ This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-li
 
 *Changed the starting position of the gauge from 20％ to 22％
 
+Support for multi-key assignments
+
 # Reference
 
 https://github.com/minsang-github/rhythmgame-docs/wiki/IIDX-LR2-beatoraja-differences
