@@ -1,4 +1,6 @@
-# beatorajaIIDX
+<img src="https://yantaisa11.s-ul.eu/SkOuwxo3.jpg" width="500">
+
+# What is this?
 This is a beatoraja that is an IIDX-like modification of the LR2oraja base
 
 # Changes from the original beatoraja
