@@ -10,6 +10,14 @@ This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-li
 
 *Changed the starting position of the gauge from 20％ to 22％
 
+# How to use
+
+1. Put beatorajaIIDX.jar and beatorajaIIDX.bat  into the latest version of beatoraja-0.7.9 folder.
+
+2. Launch beatorajaIIDX.bat.
+
+3. enjoy.
+
 # Reference
 
 https://github.com/minsang-github/rhythmgame-docs/wiki/IIDX-LR2-beatoraja-differences
