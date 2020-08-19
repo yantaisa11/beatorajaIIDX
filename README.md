@@ -5,13 +5,13 @@ This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-li
 
 # Changes from the original beatoraja
 
-*Judge is as strict as IIDX (not together)
+*Based on the referenced page, I've made the width of the judges the same as IIDX
+(I'm sure there are some differences)
 
 *Changed the starting position of the gauge from 20％ to 22％
 
 # Reference
 
 https://github.com/minsang-github/rhythmgame-docs/wiki/IIDX-LR2-beatoraja-differences
-
 
 
