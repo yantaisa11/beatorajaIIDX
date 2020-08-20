@@ -5,18 +5,18 @@ This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-li
 
 # Changes from the original beatoraja
 
-*Based on the referenced page, I've made the width of the judges the same as IIDX
+- Based on the pages we referred to, we made the gauge and judge width the same as IIDX
 (I'm sure there are some differences)
 
-*Changed the starting position of the gauge from 20％ to 22％
+- Changed the starting position of the gauge from 20％ to 22％
 
 # How to use
 
-1. Put beatorajaIIDX.jar and beatorajaIIDX.bat  into the latest version of beatoraja-0.7.9 folder.
+1. Put **beatorajaIIDX.jar** and **beatorajaIIDX.bat** into the latest version of beatoraja-0.7.9 folder
 
-2. Launch beatorajaIIDX.bat.
+2. Launch **beatorajaIIDX.bat**
 
-3. enjoy.
+3. enjoy
 
 # Reference
 
