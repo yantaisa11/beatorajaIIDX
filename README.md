@@ -3,6 +3,8 @@
 # What is this?
 This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-like modification of the [LR2oraja](https://github.com/wcko87/lr2oraja) base.
 
+I'm only distributing it to testers right now, but I'll be releasing it to the public soon.
+
 # Changes from the original beatoraja
 
 - Based on the pages we referred to, we made the gauge and judge width the same as IIDX
@@ -21,5 +23,4 @@ This is a [beatoraja](https://github.com/exch-bms2/beatoraja) that is an IIDX-li
 # Reference
 
 https://github.com/minsang-github/rhythmgame-docs/wiki/IIDX-LR2-beatoraja-differences
-
 
